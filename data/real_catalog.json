@@ -1,0 +1,103 @@
+{
+  "city": "Bhubaneswar",
+  "last_checked": "2026-09-13",
+  "notice": "Discovery data is refreshed from public/local business sources. Prices and availability can change; Zoriel never claims a purchase until the seller/commerce rail confirms it.",
+  "items": [
+    {
+      "id": "kmh-biryani-bbsr",
+      "name": "Biryani",
+      "seller": "KMH Biryani",
+      "price": null,
+      "rating": 4.8,
+      "reviews": 1962,
+      "delivery": "Check live delivery",
+      "area": "Bapuji Nagar",
+      "source": "Local business discovery",
+      "url": "https://www.google.com/maps/search/?api=1&query=KMH%20Biryani%20Bhubaneswar"
+    },
+    {
+      "id": "aasife-biriyani-bbsr",
+      "name": "Biriyani",
+      "seller": "Aasife Biriyani Odisha",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 1560,
+      "delivery": "Check live delivery",
+      "area": "Satya Nagar",
+      "source": "Local business discovery",
+      "url": "https://www.google.com/maps/search/?api=1&query=Aasife%20Biriyani%20Odisha%20Bhubaneswar"
+    },
+    {
+      "id": "chickpet-acharya",
+      "name": "Biryani",
+      "seller": "Chickpet Donne Biryani House - 1975",
+      "price": null,
+      "rating": 4.3,
+      "reviews": 933,
+      "delivery": "Check live delivery",
+      "area": "Acharya Vihar",
+      "source": "Local business discovery",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chickpet%20Donne%20Biryani%20House%20Acharya%20Vihar%20Bhubaneswar"
+    },
+    {
+      "id": "biriyani-box-patia",
+      "name": "Biryani",
+      "seller": "Biriyani Box",
+      "price": null,
+      "rating": 3.9,
+      "reviews": 4156,
+      "delivery": "Check live delivery",
+      "area": "Patia",
+      "source": "Local business discovery",
+      "url": "https://www.google.com/maps/search/?api=1&query=Biriyani%20Box%20Patia%20Bhubaneswar"
+    },
+    {
+      "id": "biryani-by-kilo",
+      "name": "Biryani",
+      "seller": "Biryani by Kilo - Bhubaneswar",
+      "price": null,
+      "rating": 3.8,
+      "reviews": 962,
+      "delivery": "Check live delivery",
+      "area": "Chandrasekharpur",
+      "source": "Local business discovery",
+      "url": "https://www.google.com/maps/search/?api=1&query=Biryani%20by%20Kilo%20Bhubaneswar"
+    },
+    {
+      "id": "house-of-biryani",
+      "name": "Chicken Biryani [Serves 3]",
+      "seller": "House of Biryani",
+      "price": 399,
+      "rating": null,
+      "reviews": null,
+      "delivery": "Check live delivery",
+      "area": "Patia",
+      "source": "Public menu listing",
+      "url": "https://magicpin.in/Bhubaneswar/Patia/Restaurant/House-Of-Biryani/store/34a971/delivery/"
+    },
+    {
+      "id": "house-of-biryani-veg5",
+      "name": "Veg Biriyani [Serves 5]",
+      "seller": "House of Biryani",
+      "price": 599,
+      "rating": null,
+      "reviews": null,
+      "delivery": "Check live delivery",
+      "area": "Patia",
+      "source": "Public menu listing",
+      "url": "https://magicpin.in/Bhubaneswar/Patia/Restaurant/House-Of-Biryani/store/34a971/delivery/"
+    },
+    {
+      "id": "house-of-biryani-egg3",
+      "name": "Egg Biriyani [Serves 3]",
+      "seller": "House of Biryani",
+      "price": 360,
+      "rating": null,
+      "reviews": null,
+      "delivery": "Check live delivery",
+      "area": "Patia",
+      "source": "Public menu listing",
+      "url": "https://magicpin.in/Bhubaneswar/Patia/Restaurant/House-Of-Biryani/store/34a971/delivery/"
+    }
+  ]
+}
